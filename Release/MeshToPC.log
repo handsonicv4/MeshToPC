@@ -1,0 +1,9 @@
+﻿  main.cpp
+e:\github\meshtopc\meshtopc\main.cpp(43): warning C4018: “<”: 有符号/无符号不匹配
+e:\github\meshtopc\meshtopc\main.cpp(54): warning C4018: “>”: 有符号/无符号不匹配
+e:\github\meshtopc\meshtopc\main.cpp(62): warning C4018: “<”: 有符号/无符号不匹配
+e:\github\meshtopc\meshtopc\main.cpp(65): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码
+  All 149 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  MeshToPC.vcxproj -> E:\Github\MeshToPC\MeshToPC\Release\MeshToPC.exe
